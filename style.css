@@ -1,0 +1,47 @@
+body{
+  background-color: gainsboro;
+} 
+
+.name{
+    background-color: white      ;
+}
+
+th{
+    background-color: white;
+}
+
+td{
+    background-color: palegoldenrod;
+}
+
+.Skill{
+    background-color: palegoldenrod;
+
+    width: 500px;
+}
+
+.Yaya{
+    background-color: ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    width: 400px;
+}
+
+.table{
+    background-color: grey;
+    padding-right: 100px;
+    text-align: center;
+}
+
+.gambar{
+    text-align: center;
+}
+
+
+.gambar-saya{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
